@@ -1,0 +1,8 @@
+pyproject.toml
+bedrock_agentcore_starter_toolkit.egg-info/PKG-INFO
+bedrock_agentcore_starter_toolkit.egg-info/SOURCES.txt
+bedrock_agentcore_starter_toolkit.egg-info/dependency_links.txt
+bedrock_agentcore_starter_toolkit.egg-info/top_level.txt
+operations/__init__.py
+operations/gateway/__init__.py
+operations/gateway/client.py

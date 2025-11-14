@@ -1,0 +1,5 @@
+pyproject.toml
+strands_agents.egg-info/PKG-INFO
+strands_agents.egg-info/SOURCES.txt
+strands_agents.egg-info/dependency_links.txt
+strands_agents.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+pyproject.toml
+bedrock_agentcore.egg-info/PKG-INFO
+bedrock_agentcore.egg-info/SOURCES.txt
+bedrock_agentcore.egg-info/dependency_links.txt
+bedrock_agentcore.egg-info/top_level.txt
